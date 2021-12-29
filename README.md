@@ -4,7 +4,7 @@ This notebook tries to solve brain tumor segmentation problem by implementing an
 
 ## Implementation
 
-As stated before, this problem is solved by implementing U-Net (popular network for semantic segmentation).
+As stated before, this problem is solved by implementing U-Net (popular architecture for semantic segmentation).
 
 To make the model train better early stopping, learning rate schedulers and weight decay are also implemented.
 
